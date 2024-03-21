@@ -7,6 +7,7 @@ import MenuIcon from "@mui/icons-material/Menu";
 const Navigation = () => {
   const navigate = useNavigate();
 
+
   return (
     <AppBar position="relative">
       <Toolbar>
